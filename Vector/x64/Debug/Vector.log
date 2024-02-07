@@ -1,0 +1,15 @@
+﻿  Vector.cpp
+C:\Users\Quixar\source\repos\Vector\Vector.cpp(35,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quixar\source\repos\Vector\Vector.cpp(71,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quixar\source\repos\Vector\Vector.cpp(91,26): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Quixar\source\repos\Vector\Vector.cpp(120,26): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Quixar\source\repos\Vector\Vector.cpp(127,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quixar\source\repos\Vector\Vector.cpp(137,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quixar\source\repos\Vector\Vector.cpp(146,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quixar\source\repos\Vector\Vector.cpp(269,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quixar\source\repos\Vector\Vector.cpp(281,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quixar\source\repos\Vector\Vector.cpp(305,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quixar\source\repos\Vector\Vector.cpp(320,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quixar\source\repos\Vector\Vector.cpp(351,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Quixar\source\repos\Vector\Vector.cpp(376,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Vector.vcxproj -> C:\Users\Quixar\source\repos\Vector\x64\Debug\Vector.exe
